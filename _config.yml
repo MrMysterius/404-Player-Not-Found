@@ -1,3 +1,2 @@
 theme: jekyll-theme-cayman
-site.github:
-  releases_url: 'https://github.com/MrMysterius/404-Player-Not-Found/releases'
+releases_url: https://github.com/MrMysterius/404-Player-Not-Found/releases
