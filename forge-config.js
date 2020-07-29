@@ -14,7 +14,7 @@ module.exports = {
             "setupIcon": path.join(__dirname,"/app/assets/images/icon.ico"),
             "loadingGif": path.join(__dirname,"/app/assets/images/loading.gif"),
             "iconUrl": path.join(__dirname,"/app/assets/images/icon.ico"),
-            "version": "1.2.0"
+            "version": "1.3.0"
           }
         },
         {
@@ -28,7 +28,7 @@ module.exports = {
           "config": {
             "icon": path.join(__dirname,"/app/assets/images/icon.png"),
             "name": "404-player-not-found",
-            "version": "1.2.0",
+            "version": "1.3.0",
             "maintainer": "MrMysterius"
           }
         },
@@ -37,7 +37,7 @@ module.exports = {
           "config": {
             "icon": path.join(__dirname,"/app/assets/images/icon.png"),
             "name": "404-player_not_found",
-            "version": "1.2.0"
+            "version": "1.3.0"
           }
         }
       ]
