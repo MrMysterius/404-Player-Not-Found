@@ -1,2 +1,2 @@
-# 404-Player-Not-Found
+# 404 Player Not Found
 Cheap Desktop Soundcloud Client
