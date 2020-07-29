@@ -13,7 +13,7 @@ module.exports = {
         "minHeight": 515,
         "webPreferences": {
           "plugins": true,
-          "devTools": true
+          "devTools": false
         },
         "titleBarStyle": "hidden",
         "darkTheme": true,
