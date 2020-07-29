@@ -1,4 +1,4 @@
-# 404 Player Not Found - <img src="https://img.shields.io/static/v1?label=Download&style=for-the-badge&color=blue&link=https://github.com/MrMysterius/404-Player-Not-Found/releases&message=Click%20Here" />
+# 404 Player Not Found - <img src="https://img.shields.io/static/v1?label=Download&style=for-the-badge&color=blue&url=https://github.com/MrMysterius/404-Player-Not-Found/releases&message=Click%20Here" />
 
 Cheap Desktop Soundcloud Client
 
